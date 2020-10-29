@@ -4,6 +4,5 @@ test.py
 
 .vscode/
 __pycache__/
-Pipfile
 Pipfile.lock
 tasks.txt
