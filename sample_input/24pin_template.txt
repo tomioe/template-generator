@@ -1,0 +1,1 @@
+Rows: 3Columns: 8Label font: arial Label font size: 14Category colours: ADC=green IO=blue PSU=redPin symbol: circle

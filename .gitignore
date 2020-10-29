@@ -1,0 +1,9 @@
+test.py
+*.ttf
+*.png
+
+.vscode/
+__pycache__/
+Pipfile
+Pipfile.lock
+tasks.txt

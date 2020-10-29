@@ -1,0 +1,25 @@
+﻿Row position;Column position;Label;Category
+A;1;IO 1;IO
+A;2;IO 2;IO
+A;3;IO 3;IO
+A;4;IO 4;IO
+A;5;PSU 1 +;PSU
+A;6;PSU 1 -;PSU
+A;7;PSU 2 +;PSU
+A;8;PSU 2 -;PSU
+B;1;IO 5;IO
+B;2;IO 6;IO
+B;3;IO 7;IO
+B;4;IO 8;IO
+B;5;ADC 1 ;ADC 
+B;6;ADC 2 ;ADC 
+B;7;ADC 3;ADC 
+B;8;ADC 4;ADC 
+C;1;IO 9;IO
+C;2;IO 10;IO
+C;3;IO 11;IO
+C;4;IO 12;IO
+C;5;ADC 5 ;ADC 
+C;6;ADC 6;ADC 
+C;7;ADC 7;ADC 
+C;8;ADC 8;ADC 
